@@ -62,6 +62,16 @@ $ geth --datadir "p2" --port 30302 --networkid 15 --ipcdisable console
 $ geth --datadir "p3" --port 30303 --networkid 15 --ipcdisable console 
 
 
+
+> admin.nodeInfo.enode
+"enode://8f288e577053333c49a6ae4728e117be06e6dc39243400af69439bcfbffc2500fd3c08568772c0c01accadb193fe9c3f29336dc2a08c19c9a1e4d111b017edab@0.0.0.0:30301"
+
+> net.peerCount
+2
+
+> admin.peers
+
+
 > admin.addPeer("enode://8f288e577053333c49a6ae4728e117be06e6dc39243400af69439bcfbffc2500fd3c08568772c0c01accadb193fe9c3f29336dc2a08c19c9a1e4d111b017edab@0.0.0.0:30301")
 > net.peerCount
 > admin.peers
