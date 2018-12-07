@@ -56,8 +56,11 @@ geth --identity "PrivateNetwork" --datadir "sotolab" --port "30303" --rpccorsdom
 "enode://442bdb0a9a0aad7d6e3f48346c1f0afa32925b5001c0b36a959881a122a6023c59bc0c6c5a29301a0a940645f43b09b273ff92812cd83b0d2f7ba6ba6ff10e51@0.0.0.0:30303"
 
 $ geth --datadir "p1" --port 30301 --networkid 15 --ipcdisable console 
+
 $ geth --datadir "p2" --port 30302 --networkid 15 --ipcdisable console 
+
 $ geth --datadir "p3" --port 30303 --networkid 15 --ipcdisable console 
+
 
 > admin.addPeer("enode://8f288e577053333c49a6ae4728e117be06e6dc39243400af69439bcfbffc2500fd3c08568772c0c01accadb193fe9c3f29336dc2a08c19c9a1e4d111b017edab@0.0.0.0:30301")
 > net.peerCount
