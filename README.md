@@ -46,7 +46,7 @@ geth --identity "PrivateNetwork" --datadir "sotolab" --port "30303" --rpccorsdom
 
 > miner.stop()
 
-> web3.fromWei(eth.getBalance(eth.accounts[1]), "ether") 
+> web3.fromWei(eth.getBalance(eth.accounts[0]), "ether") 
 
 > eth.getTransaction("0x681001dab2665fb128adff42c83470bc9eae9249e4d963dbc0071a4e22fa8fd7")
 
