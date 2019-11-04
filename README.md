@@ -1,6 +1,8 @@
 # information
 information
 
+https://faucet.ropsten.be/
+
 
 
 # geth 실행
