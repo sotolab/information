@@ -1,6 +1,10 @@
 # information
 information
 
+Visual Code
+live server
+prettier
+
 https://faucet.ropsten.be/
 
 JavaScript Obfuscator Tool
