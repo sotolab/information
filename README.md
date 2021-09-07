@@ -5,6 +5,9 @@ Visual Code
 live server
 prettier
 
+5 ether
+https://faucet.dimensions.network/
+
 https://faucet.ropsten.be/
 
 JavaScript Obfuscator Tool
