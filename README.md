@@ -5,6 +5,12 @@ Visual Code
 live server
 prettier
 
+https://github.com/dappuniversity/web3_examples
+
+https://sotoedu.herokuapp.com/
+
+
+
 5 ether
 https://faucet.dimensions.network/
 
