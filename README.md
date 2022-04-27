@@ -5,6 +5,9 @@ Visual Code
 live server
 prettier
 
+0x6689285eA6D9a88aA305ceCbDEa5e84753eeCD04
+
+
 https://github.com/dappuniversity/web3_examples
 
 https://sotoedu.herokuapp.com/
