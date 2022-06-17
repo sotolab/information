@@ -17,6 +17,8 @@ https://sotoedu.herokuapp.com/
 
 
 5 ether
+https://faucet.egorfine.com/
+
 https://faucet.dimensions.network/
 
 https://faucet.ropsten.be/
