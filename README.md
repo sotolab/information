@@ -5,9 +5,8 @@ Visual Code
 live server
 prettier
 
-0x5c4cAcE41Bf7C8868A717290d2b856a45eb5d262
-
-0x6689285eA6D9a88aA305ceCbDEa5e84753eeCD04
+Ropsten 테스트 네트워크
+0xb75A977972e1a71f4C8D39E6F80935CC5FCa51f8
 
 
 https://github.com/dappuniversity/web3_examples
